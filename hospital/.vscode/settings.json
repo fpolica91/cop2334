@@ -1,0 +1,14 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.leex": "elixir",
+    "*.psql": "sql",
+    "vector": "cpp",
+    "filesystem": "cpp",
+    "iosfwd": "cpp",
+    "unordered_map": "cpp"
+  }
+}
